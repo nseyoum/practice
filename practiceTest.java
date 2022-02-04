@@ -4,7 +4,7 @@ import org.junit.*;
 public class practiceTest{
     @Test
     public void multiplication(){
-        assertEquals(2,pratice.add(2,1));
+        assertEquals(3,Practice.multiply(2,1)); //fails at first
     }
 
 }
