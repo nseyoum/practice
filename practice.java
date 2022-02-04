@@ -1,1 +1,1 @@
-
+public class Practice {} //example
